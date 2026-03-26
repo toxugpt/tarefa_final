@@ -8,11 +8,12 @@ package tarefa_final;
  *
  * @author alvabagon
  */
-public class sumador {
+public class restador {
 
-    public static float sumar(float a, float b) {
+    public static float restar(float a, float b) {
 
-        return a + b;
+        return a - b;
 
     }
+
 }
